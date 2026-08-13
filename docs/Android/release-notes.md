@@ -17,6 +17,8 @@ Omnissa Intelligence SDK for Android Release Notes describe the new features and
 
 ## Omnissa Intelligence SDK 26.5.1 for Android - July 6, 2026
 
+- **If your app uses both SDKs, upgrading to this release also requires upgrading [Workspace ONE SDK](https://developer.omnissa.com/ws1-sdk-for-android/) to [version 26.06](https://developer.omnissa.com/ws1-sdk-for-android/release-notes/#workspace-one-sdk-2606-for-android) or later; for more information, see article [KB 6001611](https://kb.omnissa.com/s/article/6001611).**
+
 ### Minimum Requirements
 
 - Android 7.0 or later
